@@ -96,7 +96,7 @@ Researched **UPI/Online Payment Fraud** as the chosen cybercrime type. Wrote a d
 | My GitHub Profile | [github.com/yourusername](https://github.com/yourusername) |
 | My LinkedIn Profile | [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile) |
 | My Kaggle Profile | [kaggle.com/yourusername](https://kaggle.com/yourusername) |
-| Digital Literacy Quiz (Google Form) | [Paste link here] |
+| Digital Literacy Quiz (Google Form) | |
 | Cyber Crime Reporting Portal | [cybercrime.gov.in](https://cybercrime.gov.in) |
 
 ---
